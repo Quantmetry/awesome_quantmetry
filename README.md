@@ -12,9 +12,11 @@ It's totally normal if some repositories appear more than once: this page is her
 * [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) (scikit-contrib)
 
 
-## Interpretability
+## Interpretability / Explainable AI
 * [SHAP](https://github.com/slundberg/shap)
 * [skope-rules](https://github.com/scikit-learn-contrib/skope-rules) (scikit-contrib)
+* [Quantmetry intelligibily resources repo](https://github.com/Quantmetry/resources-intelligibility)
+* [JP-Hall ML-Interpretability awesome list](https://github.com/jphall663/awesome-machine-learning-interpretability)
 
 
 ## Natural Language Processing
