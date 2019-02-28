@@ -1,15 +1,16 @@
 # awesome_quantmetry
+![alt text][qm-contrib-head]
+
 **A list of repositories commonly used at [Quantmetry](https://quantmetry.com)**
 
-It's totally normal if some repositories appear more than once: this page is here to list both the repositories and the fields in which we apply them
 
 ## Statistics / Machine Learning building blocks
+* scipy / numpy
 * scikit-learn
-* scipy
-* numpy
 * [statsmodels](https://github.com/statsmodels/statsmodels)
 * [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) (scikit-contrib)
 * [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) (scikit-contrib)
+* [keras](https://github.com/keras-team/keras)
 
 
 ## Interpretability / Explainable AI
@@ -25,7 +26,6 @@ It's totally normal if some repositories appear more than once: this page is her
 * [gensim](https://github.com/rare-technologies/gensim)
 * [pyLDAvis](https://github.com/bmabey/pyLDAvis)
 * [melusine](https://github.com/MAIF/melusine) ![alt text][qm-contrib]
-* [keras](https://github.com/keras-team/keras)
 
 
 ## Computer Vision
@@ -33,7 +33,6 @@ It's totally normal if some repositories appear more than once: this page is her
 * [Mozilla's implementation of Baidu's DeepSpeech](https://github.com/mozilla/DeepSpeech)
 * [OpenCV](https://github.com/opencv/opencv)
 * [MaskRCNN](https://github.com/matterport/Mask_RCNN)
-* [keras](https://github.com/keras-team/keras)
 
 
 ## Time Series
@@ -59,3 +58,4 @@ It's totally normal if some repositories appear more than once: this page is her
 
 
 [qm-contrib]: https://img.shields.io/static/v1.svg?label=&message=contributor&color=1A829E
+[qm-contrib-head]: https://img.shields.io/static/v1.svg?label=QM&message=open-source&color=1A829E
