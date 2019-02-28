@@ -14,7 +14,7 @@ It's totally normal if some repositories appear more than once: this page is her
 
 ## Interpretability / Explainable AI
 * [SHAP](https://github.com/slundberg/shap)
-* [skope-rules](https://github.com/scikit-learn-contrib/skope-rules) (scikit-contrib)
+* [skope-rules](https://github.com/scikit-learn-contrib/skope-rules) (scikit-contrib) ![alt text][qm-contrib]
 * [Quantmetry intelligibility resources](https://github.com/Quantmetry/resources-intelligibility)
 * [JP-Hall ML-Interpretability awesome list](https://github.com/jphall663/awesome-machine-learning-interpretability)
 
@@ -24,6 +24,7 @@ It's totally normal if some repositories appear more than once: this page is her
 * [NLTK](https://github.com/nltk/nltk)
 * [gensim](https://github.com/rare-technologies/gensim)
 * [pyLDAvis](https://github.com/bmabey/pyLDAvis)
+* [melusine](https://github.com/MAIF/melusine) ![alt text][qm-contrib]
 * [keras](https://github.com/keras-team/keras)
 
 
@@ -46,6 +47,7 @@ It's totally normal if some repositories appear more than once: this page is her
 * [Airflow](https://github.com/apache/airflow)
 * [PySpark](https://github.com/apache/spark/tree/master/python/pyspark)
 * [kafka-confluent](https://github.com/confluentinc/confluent-kafka-python)
+* [pipeasy-spark](https://github.com/Quantmetry/pipeasy-spark) ![alt text][qm-contrib]
 
 
 ## Web/DataViz
@@ -55,3 +57,5 @@ It's totally normal if some repositories appear more than once: this page is her
 * [Django](https://github.com/django/django)
 
 
+
+[qm-contrib]: https://img.shields.io/static/v1.svg?label=&message=contributor&color=1A829E
