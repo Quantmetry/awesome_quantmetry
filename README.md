@@ -54,7 +54,7 @@
 * [Dash](https://github.com/plotly/dash)
 * [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
 * [Django](https://github.com/django/django)
-
+* [missingno](https://github.com/ResidentMario/missingno)
 
 
 [qm-contrib]: https://img.shields.io/static/v1.svg?label=&message=contributor&color=1A829E
