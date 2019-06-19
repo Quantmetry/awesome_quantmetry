@@ -5,12 +5,11 @@
 
 
 ## Statistics / Machine Learning building blocks
-* scipy / numpy
-* scikit-learn
+* [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 * [statsmodels](https://github.com/statsmodels/statsmodels)
-* [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) (scikit-contrib)
 * [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) (scikit-contrib)
 * [keras](https://github.com/keras-team/keras)
+
 
 
 ## Interpretability / Explainable AI
@@ -42,7 +41,7 @@
 * [scikit-survival](https://github.com/sebp/scikit-survival)
 
 
-## Data Engineering
+## Data Engineering / deployment
 * [Airflow](https://github.com/apache/airflow)
 * [PySpark](https://github.com/apache/spark/tree/master/python/pyspark)
 * [kafka-confluent](https://github.com/confluentinc/confluent-kafka-python)
@@ -53,7 +52,6 @@
 * [Flask](https://github.com/pallets/flask)
 * [Dash](https://github.com/plotly/dash)
 * [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
-* [Django](https://github.com/django/django)
 * [missingno](https://github.com/ResidentMario/missingno)
 
 
