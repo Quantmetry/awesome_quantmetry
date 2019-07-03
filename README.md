@@ -29,6 +29,8 @@
 
 
 ## Computer Vision
+* [OpenCV](https://github.com/opencv/opencv)
+* [scikit-image](https://github.com/scikit-image/scikit-image)
 * [retinanet](https://github.com/fizyr/keras-retinanet)
 * [OpenCV](https://github.com/opencv/opencv)
 * [MaskRCNN](https://github.com/matterport/Mask_RCNN)
