@@ -25,11 +25,11 @@
 * [gensim](https://github.com/rare-technologies/gensim)
 * [pyLDAvis](https://github.com/bmabey/pyLDAvis)
 * [melusine](https://github.com/MAIF/melusine) ![alt text][qm-contrib]
+* [Mozilla's implementation of Baidu's DeepSpeech](https://github.com/mozilla/DeepSpeech)
 
 
 ## Computer Vision
 * [retinanet](https://github.com/fizyr/keras-retinanet)
-* [Mozilla's implementation of Baidu's DeepSpeech](https://github.com/mozilla/DeepSpeech)
 * [OpenCV](https://github.com/opencv/opencv)
 * [MaskRCNN](https://github.com/matterport/Mask_RCNN)
 
